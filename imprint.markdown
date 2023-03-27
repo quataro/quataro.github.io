@@ -6,7 +6,7 @@ permalink: /imprint/
 
 Company name: **Quataro Technologies GmbH**
 
-Based in: **Holm, Schleswig-Holstein (Germany)**
+Based in: **Pinneberg, Schleswig-Holstein (Germany)**
 
 Commercial register: **Amtsgericht Pinneberg, HRB Nr. 15973 PI**
 
